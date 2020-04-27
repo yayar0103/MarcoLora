@@ -1,5 +1,5 @@
-# MarcoLora
-In ofshore ocean, Raspberrypi connect Hydrophones to detect underwater noise, after detecting processing the data and using lora to transport data to laptop
+# Lora Application
+In the offshore ocean, raspberrypi connect Hydrophone to detect underwater noise, after processing the datas then using lora to transfer datas to laptop
 
 ## Hardware
 * GPS : [**L76 GPS HAT**](https://www.waveshare.com/wiki/L76X_GPS_HAT) by Waveshare
