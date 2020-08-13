@@ -1,6 +1,9 @@
 # Lora Application
 In the offshore ocean, raspberrypi connect Hydrophone to detect underwater noise, after processing the datas then using lora to transfer datas to laptop
 
+## Flowchart
+![系統流程圖](https://github.com/yayar0103/MarcoLora/blob/master/flowplot.png)
+
 ## Hardware
 * GPS : [**L76 GPS HAT**](https://www.waveshare.com/wiki/L76X_GPS_HAT) by Waveshare
 * Lora : [**LoRa USB dongle gateway**](http://www.ifroglab.com/tw/?p=7315) by iFrogLab 
@@ -18,8 +21,6 @@ sudo apt-get install libsndfile1
 import LoRa.py
 import L76X.py
 ```
-## Flowchart
-![系統流程圖](https://github.com/yayar0103/MarcoLora/blob/master/flowplot.png)
 
 ## Step of code
 1.  Download the files which Hydrophone already output then save in raspberrypi.
