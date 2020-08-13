@@ -18,6 +18,8 @@ sudo apt-get install libsndfile1
 import LoRa.py
 import L76X.py
 ```
+## Flowchart
+![系統流程圖](https://github.com/yayar0103/MarcoLora/blob/master/flowplot.png)
 
 ## Step of code
 1.  Download the files which Hydrophone already output then save in raspberrypi.
